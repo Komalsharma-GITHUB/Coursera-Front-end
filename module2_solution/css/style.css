@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: gray;
+    background-color: #FFB6C1;
 }
 
 h1 {
@@ -16,7 +16,7 @@ h1 {
 
 section {
     border: 1px solid black;
-    background-color: #FFFF99;
+    background-color: #93c572;
     margin: 12px;
 }
 
